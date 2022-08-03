@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DEMO Neverwinter Nights:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DEMO_Neverwinter_Nights_jar</output-path>
+    <root id="archive" name="DEMO Neverwinter Nights.jar">
+      <element id="module-output" name="DEMO Neverwinter Nights" />
+    </root>
+  </artifact>
+</component>
